@@ -1,0 +1,4 @@
+Ce fichier contient les contacts des contributeurs.
+
+Merci d'ajouter le nom des contributeurs à la fin de la liste.
+

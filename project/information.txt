@@ -1,0 +1,4 @@
+Ceci est un fichier d'information.
+
+Il contient des informations.
+

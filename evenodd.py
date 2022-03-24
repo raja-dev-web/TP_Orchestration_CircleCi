@@ -3,5 +3,9 @@ def evenorodd(num):
         return "Even Number"
     else:
         return "Odd Number"
+
+def mainFunc():
+    print("This is the main function")
+    
 if __name__ == '__main__':
-    evenorodd(num)
+    mainFunc()

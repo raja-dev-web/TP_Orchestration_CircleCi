@@ -1,4 +1,4 @@
-from main import evenorodd
+from evenodd import evenorodd
 
 def TestEvenorOdd():
     if evenorodd(7) == "Even Number":

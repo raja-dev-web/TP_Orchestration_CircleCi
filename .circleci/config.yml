@@ -1,5 +1,8 @@
 version: 2.1
 
+orbs:
+  python: circleci/python@1.5.0
+  
 jobs:
   build:
     working_directory: ~/circleci-demo-python-django
@@ -33,6 +36,7 @@ jobs:
           command: pipenv run python testevenodd.py
 
 workflows:
+    
   build_and_test:
     jobs:
       - build
